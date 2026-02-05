@@ -4,7 +4,7 @@ eureka:
       defaultZone: http://localhost:8167/eureka/
 
 common:
-  greeting:Hello from config-Server
+  greeting: Hello from config-Server
 
  
       
