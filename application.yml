@@ -3,7 +3,8 @@ eureka:
     service-url:
       defaultZone: http://localhost:8167/eureka/
 
-
+common:
+  greeting:Hello from config-Server
 
  
       
