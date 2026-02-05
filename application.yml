@@ -2,3 +2,10 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8167/eureka/
+
+
+spring:
+  application:
+   name: CONFIG-SERVER-NAME 
+ 
+      
